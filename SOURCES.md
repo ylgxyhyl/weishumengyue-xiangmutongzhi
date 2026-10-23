@@ -44,7 +44,7 @@ com
 | C | Stronghold-Protocol-XY (协议源石版) | https://github.com/hhyy2333/stronghold-protocol-xy | @哔哩哔哩-喵33是cjb (火燃于花) | ❌ | 独立分支版本 |
 | C | Stronghold-Protocol Android | https://github.com/Paper-Yuan/Stronghold-Protocol | @哔哩哔哩-纸鸢安好 (纸鸢千机) | ❌ | 安卓端适配；含全皮、全语音、超限测试内容 |
 | C | Rhodes-Kazdel Mod | https://github.com/yznx09/Stronghold-Protocol-Rhodes-Kazdel-Mod | @哔哩哔哩-伊佐那邪_ (伊佐那邪) | ❌ | 卫戍协议：盟约 · 罗德岛 / 卡兹戴尔盟约 Mod |
-| C | Forge & Mods Repository | https://github.com/XiaMo233M/Stronghold-Protocol-Forge<br>https://github.com/XiaMo233M/Stronghold-Protocol-Forge-Mods | @哔哩哔哩-沫沐沐 (沫) | ❌ | Forge框架及Mods集合仓库（原链接粘连，已拆分） |
+| C | Forge & Mods Repository | https://github.com/XiaMo233M/Stronghold-Protocol-Forge<br>https://github.com/XiaMo233M/Stronghold-Protocol-Forge-Mods | @哔哩哔哩-沫沐沐 (沫) | ❌ | Forge框架及Mods集合仓库 |
 | C | 东盟约 Modpack | https://github.com/CLAPXO/-modpack/ | @哔哩哔哩-CLAPXO (东国区) | ❌ | 含干员：吉星、白雪、赤东、火龙S黑角、麒麟R夜刀 |
 | C | Forge Full Pack | https://github.com/IncogniBox/stronghold-protocol-forge-full | @哔哩哔哩-不知名信箱 | ❌ | 含颂乐人偶、哥伦比亚、雷姆必拓、故事集前置、多索雷斯、职业分支扩展前置、全干员时装补充包、开发者功能扩展、数据显示 |
 | C | 一服 危机合约 | 暂无 | @哔哩哔哩-是小狼崽口牙 | ❌ | 一服 危机合约 |
@@ -60,6 +60,7 @@ com
 | C | 罗德岛 调试模式 | 暂无 | @哔哩哔哩-典狱长二创典狱长拟人 | ❌ | 罗德岛 调试模式 |
 | C | 安卓端+创意工坊 | 暂无 | @哔哩哔哩-Daisy_Theresa | ❌ | 安卓端+创意工坊 |
 | C | 契约，肉鸽，13服 | https://1825905525.share.123pan.cn/123pan/9GBNJv-Cprx3?notoken=1&pwd=7999 | @哔哩哔哩-剑光卤煮-斩尽牛杂 | ❌ | 契约，肉鸽，13服 |
+| C | 开发者模式，鸿蒙适配 | 暂无 | @哔哩哔哩-严肃摸鱼中 | ❌ | 开发者模式，鸿蒙适配 | 
 
 > **📌 致谢与遗漏声明**
 > 以上名单不分先后，后续将随项目组人数增加持续更新。部分制作者因个人原因未列入，如有遗漏或信息更正，请通过 QQ: 3130007694 联系维护者，我们将及时补充。感谢所有为本项目付出努力的制作者！
